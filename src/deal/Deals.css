@@ -1,0 +1,31 @@
+.deals{
+    width: 90%;
+    margin: auto;
+  
+    
+   
+    
+  }
+  .deal_title{
+      display: flex;
+      flex-direction: column;
+      gap: 13px;
+  }
+  .deal_title>h1{
+    font-family: 'Numans', sans-serif;
+    font-size: 44px;
+    margin-top: 58px;
+    margin-bottom: 0px;
+    background: linear-gradient(103deg, #0094FF 10.75%, #721DFC 118.51%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  
+  }
+  .deal_title>span{
+      font-family: 'Numans', sans-serif;
+      font-size: 23px;
+      color: gray;
+  }
+  .col-md-4{
+      /* margin-top: 40px !important; */
+  }   

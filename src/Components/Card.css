@@ -1,0 +1,130 @@
+.deal_card_margin {
+  /* width: 100%;
+    margin-left: 125px;
+    margin-top: 53px;
+    max-height: 625px;
+    height: 580px !important;
+    border-radius: 59px !important;
+    box-shadow: 0 2px 19px rgb(0 0 0 / 29%); */
+
+  width: 90%;
+  /* margin-left: 125px; */
+  margin-top: 53px;
+  max-height: 625px;
+  height: 538px !important;
+  border-radius: 36px !important;
+  box-shadow: 0 2px 19px rgb(0 0 0 / 29%);
+  margin: auto;
+}
+
+.amount_per_view_more {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.amount-per-left {
+  flex: 1;
+}
+.amount-per-right {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.overflow > img {
+  width: 100%;
+}
+.second_section {
+  padding: 0px 16px;
+  font-size: 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.sub_title_malvano {
+  position: absolute;
+  top: 47px;
+  left: 118px;
+  font-size: 24px;
+  font-family: "Jost", sans-serif;
+  font-weight: 500;
+}
+.small_box {
+  position: relative;
+  top: -38px;
+
+  width: 24%;
+}
+
+.small_box > img {
+  width: 100%;
+}
+.percentage {
+  flex: 1;
+}
+.close_in {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+.discription {
+  margin-bottom: 0;
+  font-size: 13px !important;
+  color: gray;
+}
+.deal_close_in{
+    font-size: 14px;
+    color: gray;
+    margin-bottom: 0;
+    font-weight: 400;
+}
+
+.amount_per_title{
+    font-size: 13px !important;
+  color: gray;
+  margin-bottom: 0;
+
+}
+.num_subscriber_title{
+    font-size: 13px;
+    color: gray;
+    margin-bottom: 0;
+}
+.deal_percentage{
+    font-size: 14px;
+    color: gray;
+    margin-bottom: 0;
+    font-weight: 400;
+
+}
+
+
+/* p {
+  font-size: 13px;
+  color: gray;
+  margin-bottom: 0;
+} */
+.close_days {
+  color: orange;
+  font-weight: 700;
+}
+.percent_numb {
+  color: #27da2f;
+  font-weight: 700;
+}
+.amount_num {
+  color: #07a6ff !important;
+  font-weight: 500;
+}
+.number_of_subscriber {
+  font-weight: 500;
+}
+.deal_card_margin{margin-top: 40px;}
+
+
+/* ++++++++++++++++++++++++responsive-mobile+++++++++++++++++++++++++++++++++++ */
+

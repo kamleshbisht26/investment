@@ -1,0 +1,36 @@
+
+@media (max-width: 480px) {
+
+    .deal_button {
+        border: none;
+        background: linear-gradient(81deg, rgba(18,172,254,1) 0%, rgba(25,128,255,1) 100%);
+        padding: 6px;
+        width: 63%;
+        border-radius: 3px;
+        color: white;
+        font-size: 13px;
+    }
+    .sub_title_malvano {
+        position: absolute;
+        top: 47px;
+        left: 94px;
+        font-size: 19px;
+        font-family: "Jost", sans-serif;
+        font-weight: 400;
+    }
+    .discription {
+        margin-bottom: 3px;
+        font-size: 12px !important;
+        color: gray;
+        margin-top: 8px;
+        font-weight: 400;
+    }
+    .deal_title>span {
+        font-family: 'Numans', sans-serif;
+        font-size: 15px;
+        color: gray;
+    }
+    .deal_title>h1{
+        font-size: 30px;
+    }
+}

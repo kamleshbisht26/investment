@@ -1,0 +1,22 @@
+.ml-auto{margin-left: auto;}
+.navbar-nav .nav-link.active, .navbar-nav .show>.nav-link {
+    color: #0073C7;
+    font-weight: 500;
+    font-size: 17px;
+}
+img.creek {
+    height: 40px;
+}
+.navbar a:hover{color: #0073C7;}
+.log{ background-color: #0073C7;
+    border: none;
+    color: white;
+    padding: 8px 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;}
+    .nav-link{font-family: 'Jost';font-weight: 500;
+        font-size: 17px;color: #000000;}
